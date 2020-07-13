@@ -1197,7 +1197,7 @@ table.wpt_product_table tr.wpt_selected_tr .wpt_quantity{
     #wpt_table.no_responsive {
         overflow: auto;
         width: 100%;
-        display: block;
+        /*display: block;*/
     }
     #wpt_table:not(.no_responsive) .wpt_for_product_desc.wpt_check {
         position: absolute;
